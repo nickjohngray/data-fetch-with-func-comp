@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Retrieve Data from Server in FC and build UI Example
 An Example that shows how to:
 1. fetch data from an api
 2. use a functional component
@@ -8,8 +9,8 @@ An Example that shows how to:
 4. await & Async
 5. promises with then
 3. use map to build visual component from it
-4. how to use inline styles
-5. how to use flexbox and some other css styles
+4. use inline styles
+5. use flexbox and some other css styles
 
 
 ## Available Scripts
