@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+An Example that shows how to:
+1. fetch data from an api
+2. use a functional component
+3. use useEffect and useState react hooks
+3. use fetch and axios:
+4. await & Async
+5. promises with then
+3. use map to build visual component from it
+4. how to use inline styles
+5. how to use flexbox and some other css styles
+
+
 ## Available Scripts
 
 In the project directory, you can run:

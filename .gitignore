@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea/
+*.iml
+artifacts
+dist
+tmp
+.awcache
+*.log
+.yarnrc
+.yarn.lock
+coverage
+.history
+.vscode/
